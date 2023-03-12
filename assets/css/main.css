@@ -311,6 +311,51 @@ h4, .h4 {
   }
 }
 
+
+@media (min-width: 576px){
+  .content-wrap{
+    padding-top: 60px;
+    padding-bottom: 0px;
+    /* pt-lg-210 pb-180 bg-dark */
+  }
+}
+@media (min-width: 768px){
+  .content-wrap{
+    padding-top: 100px;
+    padding-bottom: 0px;
+    /* pt-lg-210 pb-180 bg-dark */
+  }
+}
+@media (min-width: 992px){
+  .content-wrap{
+    padding-top: 180px;
+    padding-bottom: 0px;
+    /* pt-lg-210 pb-180 bg-dark */
+  }
+}
+
+@media (min-width: 1200px){
+  .content-wrap{
+    padding-top: 240px;
+    padding-bottom:0px;
+    /* pt-lg-210 pb-180 bg-dark */
+  }
+}
+@media (min-width: 1480px){
+  video{
+    padding-top: 160px;
+    padding-bottom:px;
+    /* pt-lg-210 pb-180 bg-dark */
+  }
+}
+@media (min-width: 1667px){
+  video{
+    padding-top: 250px;
+    padding-bottom:px;
+    /* pt-lg-210 pb-180 bg-dark */
+  }
+}
+
 h5, .h5 {
   font-size: 1.25rem;
 }
