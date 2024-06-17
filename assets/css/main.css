@@ -319,6 +319,9 @@ h6, .h6 {
   font-size: 1rem;
 }
 
+.just{
+  text-align: justify;
+}
 p {
   margin-top: 0;
   margin-bottom: 1rem;
